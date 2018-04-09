@@ -70,4 +70,8 @@ q {
 a:hover {
   background-color: pink;
 }
+#slider {
+  width: 400px;
+  height: 300px;
+}
 
