@@ -74,4 +74,10 @@ a:hover {
   width: 400px;
   height: 300px;
 }
+#logo {
+  float: left;
+}
+#about {
+  float: right;
+}
 
