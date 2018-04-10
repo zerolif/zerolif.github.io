@@ -37,12 +37,11 @@ nav a {
   display: inline-block;
   padding: .8em.;
 }
-.AFP.png{ 
-  float: right;
-  padding: .8em.;
-}
 section {
   padding:4em 0;
+}
+div {
+  font-size: 1.2em;
 }
 h2 {
   font-size: 1.5em;
