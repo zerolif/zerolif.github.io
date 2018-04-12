@@ -12,7 +12,7 @@ body {
   text-align: center;
 }
 #intro {
-  background: url(imj/pala_clients);
+  background: #slider;
   background-size: cover;
   background-repeat: no-repeat;
   height: 90vh;
@@ -90,8 +90,7 @@ a:hover {
   background-color: pink;
 }
 #slider {
-  width: 400px;
-  height: 300px;
+  width: 100%;
 }
 #logo {
   float: left;
