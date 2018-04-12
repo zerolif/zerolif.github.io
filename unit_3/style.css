@@ -1,8 +1,11 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;}
-img { width:300px; }
+  box-sizing: border-box;
+}
+img { 
+  width:300px; 
+}
 body {
   color:#222;
   font-family: helvetica, arial, sans-serif;
@@ -97,5 +100,6 @@ a:hover {
 }
 #about {
   float: right;
+  text-align: right;
 }
 
